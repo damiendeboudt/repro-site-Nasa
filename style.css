@@ -110,5 +110,30 @@ button{
     border: 1px solid white;
     background-image: url("R.jfif");
     height: 10em;
-
+}
+footer span{
+    color: white;
+}
+.NASA{
+    position: relative;
+    bottom: 3em;
+    left: 21em;
+}
+.National{
+    position:relative ;
+    bottom: 4em;
+}
+footer ul li{
+    display: inline-block;
+    position: relative;
+    left: 48em;
+    margin-bottom: 5em;
+}
+footer ul li a{
+    color: #3b75c4;
+    margin: 10px;
+    font-size: smaller;
+}
+a:hover{
+    text-decoration: underline;
 }
